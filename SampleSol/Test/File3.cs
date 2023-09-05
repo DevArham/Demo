@@ -11,6 +11,7 @@ namespace Test
         public static void Method1()
         {
             Console.WriteLine("Hello World - File 3");
+            Console.WriteLine("Hello World - File 3");
         }
     }
 }
