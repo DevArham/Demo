@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Dev\\Git_Azure\\Testing\\Test2\\SampleSol\\SampleSol\\Test.csproj",
+      "projectUniqueName": "D:\\Dev\\Git_Azure\\Testing\\Demo\\SampleSol\\Test\\Test.csproj",
       "projectName": "Test",
-      "projectPath": "D:\\Dev\\Git_Azure\\Testing\\Test2\\SampleSol\\SampleSol\\Test.csproj",
+      "projectPath": "D:\\Dev\\Git_Azure\\Testing\\Demo\\SampleSol\\Test\\Test.csproj",
       "packagesPath": "D:\\Users\\ariaz\\.nuget\\packages\\",
-      "outputPath": "D:\\Dev\\Git_Azure\\Testing\\Test2\\SampleSol\\SampleSol\\obj\\",
+      "outputPath": "D:\\Dev\\Git_Azure\\Testing\\Demo\\SampleSol\\Test\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
